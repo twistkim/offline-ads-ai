@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Envs
+.venv/
+venv/
+.env
+
+# Build
+dist/
+build/
+
+# VSCode
+.vscode/*.log
+
+# Local DB (if any)
+app.db
