@@ -1,4 +1,4 @@
-📌 AI 광고 블로그 생성기 (MCP)
+📌 **AI 광고 블로그 생성기 (MCP)**
 AI 광고 블로그 생성기는 오프라인 광고 매체 소개서를 기반으로 자동으로 블로그 홍보 원고를 작성해주는 서비스입니다.
 사용자는 광고 매체 소개서(PDF)를 업로드하면, 관리자가 이를 승인/분석하고, 이후 키워드 및 기업 정보를 입력해 전문적인 블로그 홍보 글(약 3000자)을 자동으로 생성할 수 있습니다.
 
@@ -13,19 +13,19 @@ AI 광고 블로그 생성기는 오프라인 광고 매체 소개서를 기반�
 
 👉 [🌐 서비스 바로가기](https://offad.mycafe24.com/)
 
-🎯 프로젝트 배경
+🎯 **프로젝트 배경**
 - 데이터 파이프라인: PDF → AI → 구조화 DB 저장  
 - 마케팅 자동화: 반복 글쓰기 최소화 + 메시지 일관성 강화  
 - 실무 적합성: 카페24 환경 대응, PHP + MySQL + Vanilla JS  
 - MCP: Marketing Content Pipeline 구현 사례
 
-🛠️ 기술 스택
+🛠️ **기술 스택**
 - Frontend: HTML + Tailwind CSS + Vanilla JS  
 - Backend: PHP 8.x (PDO, 세션 인증)  
 - Database: MySQL (MariaDB)  
 - AI: Google Gemini API (서버사이드 연동)
 
-✨ 주요 기능
+✨ **주요 기능**
 - 📄 **PDF 업로드 & 승인**
 - 🤖 **Gemini AI 분석**
 - 📝 **맞춤 블로그 원고 생성 (3000자)**
